@@ -2679,6 +2679,7 @@ input, select, textarea {
 
 			.feature.left .content {
 				padding-right: 0;
+				justify-content:space-evenly;
 			}
 
 		.feature.right {
@@ -2696,6 +2697,7 @@ input, select, textarea {
 
 			.feature.right .content {
 				padding-left: 0;
+				justify-content:space-evenly;
 			}
 
 		.feature.long .content {
